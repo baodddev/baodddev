@@ -1,20 +1,12 @@
-## Hi! I am Duy Bao 👋
+<p align="center">
+  <img src="baodd.png" width="100%" alt="DangDuyBao Header" style="border-radius: 10px;" />
+</p>
 
-# 💫 About Me:
-I am a student majoring in Software Engineering at University of Information Technology, Vietnam National University Ho Chi Minh City (VNU-HCM)
+<h1 align='center'><samp><strong>Welcome to a space where ideas meet technology.</strong></samp></h1>
 
+### 💫 About Me
+I’m a Vietnamese Software Engineer with a strong interest in using technology to solve real-world problems and make everyday experiences better. I enjoy turning ideas into reliable, intuitive, and practical products that put users at the center of the development process.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baodddev&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=baodddev&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baodddev&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+What motivates me most is the opportunity to create technology that goes beyond simply working — solutions that provide real value and make a meaningful difference in people’s lives. I’m constantly exploring new technologies, experimenting with creative ideas, and looking for better ways to turn them into tangible products.
 
----
-[![](https://visitcount.itsvg.in/api?id=baodddev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+At the moment, I’m particularly interested in Generative AI, and I’m excited to connect with people who share the same passion for building innovative products. I’m always open to new opportunities, collaborations, and challenging projects where I can learn, contribute, and create something impactful.
